@@ -1,0 +1,5 @@
+1351, chicken pizza 5,
+1249, veg pizza 3,chicken pizza 2,large pizza 1,
+754, burger 6,chicken pizza 2,
+633, chicken pizza 3,small pizza 2,large pizza 1,
+697, burger 3,medium extra cheese pizza 2,

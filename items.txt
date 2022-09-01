@@ -1,0 +1,13 @@
+Item no, Item name, unit price
+
+
+2,garlic bread,100
+
+3,chicken pizza,450
+
+55,burger,200
+
+77,medium extra cheese pizza,600
+22,large pizza,600
+1,pizza,250
+49,chicken 65,200
